@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-¡Hola, soy [Junseong Lee](https://junx.dev/), un desarrollador y estudiante de secundaria con 6 años de experiencia!
+¡Hola! Soy [Junseong Lee](https://junx.dev/), un desarrollador y estudiante de secundaria que lleva 6 años programando.
 
 ## 🌐 If you need another language?
 한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)

@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-Привет! Я — [Ли Джунсон](https://junx.dev/), разработчик и старшеклассник, занимающийся программированием уже 6 лет!
+Всем привет! Меня зовут [Ли Джунсон](https://junx.dev/), я разработчик-старшеклассник и занимаюсь программированием уже 6 лет!
 
 ## 🌐 If you need another language?
 한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
@@ -23,4 +23,4 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-green-animate.svg){width=50% height=50%}
