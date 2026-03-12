@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-你好，我是已经有 6 年开发经验的高中生开发者 [李俊成](https://junx.dev/)！
+大家好，我是拥有 6 年开发经验的高中生开发者 [李俊成](https://junx.dev/)！
 
 ## 🌐 If you need another language?
 한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
@@ -22,5 +22,6 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-'
+
+## 📊 Github Stats
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Description" width="70%" height="70%">

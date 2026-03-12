@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-Olá, eu sou [Junseong Lee](https://junx.dev/), um desenvolvedor e estudante do ensino médio com 6 anos de experiência!
+Olá, eu sou o [Junseong Lee](https://junx.dev/), um desenvolvedor e estudante do ensino médio que programa há 6 anos!
 
 ## 🌐 If you need another language?
 한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
@@ -22,5 +22,6 @@ Olá, eu sou [Junseong Lee](https://junx.dev/), um desenvolvedor e estudante do 
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-'
+
+## 📊 Github Stats
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Description" width="70%" height="70%">
