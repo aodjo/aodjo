@@ -22,5 +22,5 @@
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
-![](./profile-3d-contrib/profile-green-animate.svg){width=50% height=50%}
+'
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Description" width="70%" height="70%">
