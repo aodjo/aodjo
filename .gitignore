@@ -3,3 +3,5 @@ translator.js
 package-lock.json
 package.json
 dist
+prompt.md
+.env
