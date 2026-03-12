@@ -23,4 +23,4 @@
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
-![](./profile-3d-contrib/profile-green-animate.svg){width=50% height=50%}
+![](./profile-3d-contrib/profile-green-animate.svg)
