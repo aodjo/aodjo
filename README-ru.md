@@ -1,9 +1,9 @@
 # Hi, there 👋 
 
-Всем привет! Я [Ли Джунсон](https://junx.dev/), разработчик-старшеклассник, который занимается программированием уже 6 лет!
+Привет! Меня зовут [Ли Джунсон](https://junx.dev/), я старшеклассник и занимаюсь разработкой уже 6 лет!
 
 ## 🌐 If you need another language?
-한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
+[한국어 (ko)](/README.md) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | Русский (ru) | [Português (pt)](/README-pt.md)
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)

@@ -1,9 +1,9 @@
 # Hi, there 👋 
 
-¡Hola! Soy [Junseong Lee](https://junx.dev/), un desarrollador de secundaria que lleva 6 años programando.
+¡Hola, soy [이준성](https://junx.dev/), un desarrollador de secundaria que lleva 6 años desarrollando!
 
 ## 🌐 If you need another language?
-한국어 (ko) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
+[한국어 (ko)](/README.md) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | Español (es) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
 
 ## 🛠️ Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
