@@ -1,7 +1,9 @@
 # Hi, there 👋 
 
-Hallo, ich bin [이준성](https://junx.dev/), ein Oberschüler, der seit 6 Jahren als Entwickler tätig ist!
+Hallo, ich bin [Junsung Lee](https://junx.dev/), ein Oberschüler und Entwickler, der seit 6 Jahren programmiert!
 
+Bei DMCA-Takedown-Anfragen bezüglich meiner Repositories oder anderen Anfragen zur Zusammenarbeit kontaktieren Sie mich bitte unter [me@junx.dev](mailto:me@junx.dev).
+    
 ## 🌐 If you need another language?
 [한국어 (ko)](/README.md) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | [中文 (zh)](/README-zh.md) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | Deutsch (de) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
 

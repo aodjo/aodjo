@@ -1,7 +1,9 @@
 # Hi, there 👋 
 
-你好，我是已经有 6 年开发经验的高中生开发者 [李俊成](https://junx.dev/)！
+大家好，我是有着 6 年开发经验的高中生开发者 [李俊成 (Lee Jun-seong)](https://junx.dev/)！
 
+如果有关于我仓库的 DMCA takedown 相关咨询或其他合作事宜，请发送邮件至 [me@junx.dev](mailto:me@junx.dev)。
+    
 ## 🌐 If you need another language?
 [한국어 (ko)](/README.md) | [English (en)](/README-en.md) | [日本語 (ja)](/README-ja.md) | 中文 (zh) | [Español (es)](/README-es.md) | [Français (fr)](/README-fr.md) | [Deutsch (de)](/README-de.md) | [Русский (ru)](/README-ru.md) | [Português (pt)](/README-pt.md)
 
